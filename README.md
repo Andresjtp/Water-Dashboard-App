@@ -4,8 +4,8 @@ An interactive Streamlit web app for exploring water quality data collected in B
 
 **CIS 3590 - Internship-Ready Software Development** · Prof. Gregory Reis
 
-- **Live app:** _<add your Streamlit Community Cloud URL here>_
-- **Repository:** _<add your GitHub repository URL here>_
+- **Live app:** https://water-dashboard-app-saetamepjra9pdjcraibmh.streamlit.app/
+- **Repository:** https://github.com/Andresjtp/Water-Dashboard-App
 
 ## Purpose
 
